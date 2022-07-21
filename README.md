@@ -1,4 +1,4 @@
-# :🍔: Burger King Brasil - Kenzie
+# :hamburger: Burger King Brasil - Kenzie
 ![GitHub](https://img.shields.io/github/license/lucasliet/Calculadora-IMC)
 
 Burger King Brasil -  Kenzie 🍔 feito em HTML5 , CSS3 e JavaScript.
